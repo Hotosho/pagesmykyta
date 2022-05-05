@@ -2,3 +2,15 @@
 
 2022-05-05T00:05:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w /Users/miki/Sites/localhost/wordpress.dev/wp-includes/class-wp-image-editor-gd.php w linii 208
 
+2022-05-05T00:13:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w /Users/miki/Sites/localhost/wordpress.dev/wp-includes/class-wp-image-editor-gd.php w linii 111
+
+2022-05-05T00:14:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w /Users/miki/Sites/localhost/wordpress.dev/wp-includes/class-wp-image-editor-gd.php w linii 208
+
+2022-05-05T00:18:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w /Users/miki/Sites/localhost/wordpress.dev/wp-includes/class-wp-image-editor-gd.php w linii 208
+
+2022-05-05T00:23:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w /Users/miki/Sites/localhost/wordpress.dev/wp-includes/class-wp-image-editor.php w linii 565
+
+2022-05-05T00:28:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w /Users/miki/Sites/localhost/wordpress.dev/wp-includes/class-wp-image-editor-gd.php w linii 208
+
+2022-05-05T00:28:52+00:00 CRITICAL Maximum execution time of 30 seconds exceeded w /Users/miki/Sites/localhost/wordpress.dev/wp-includes/class-wp-image-editor.php w linii 565
+
